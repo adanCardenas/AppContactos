@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/S2_activity_confirmacion"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.cardenas.adan.appcontactos.Confirmacion">
+
+
+    <TextView
+        android:id="@+id/S2_TextView_Encabezado"
+        android:text="@string/S2_TextView_Encabezado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center_horizontal"
+        android:textSize="@dimen/S2_Texto_Titulo" />
+    <LinearLayout
+        android:id="@+id/S2_LinearLayout_Nombre"
+        android:layout_marginTop="@dimen/S2_Espaciado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+       <TextView
+            android:id="@+id/S2_TextView_NOMBRE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/S2_Texto_Nombre"
+            android:textStyle="normal|bold" />
+        <TextView
+            android:id="@+id/S2_TextView_Nombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/S2_Texto_Nombre"
+            android:layout_marginLeft="@dimen/S2_Espacio_Texto"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/S2_LinearLayout_FechaNacimiento"
+        android:layout_marginTop="@dimen/S2_Espaciado"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/S2_TextView_FECHA_NACIMIENTO"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/S2_Texto_FechaNacimiento"
+            android:textStyle="normal|bold"/>
+        <TextView
+            android:id="@+id/S2_TextView_FechaNacimiento"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/S2_Espacio_Texto"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/S2_LinearLayout_Telefono"
+        android:layout_marginTop="@dimen/S2_Espaciado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/S2_TextView_TELEFONO"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/S2_Texto_Telefono"
+            android:textStyle="normal|bold"/>
+        <TextView
+            android:id="@+id/S2_TextView_Telefono"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/S2_Espacio_Texto"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/S2_LinearLayout_CorreoElectronico"
+        android:layout_marginTop="@dimen/S2_Espaciado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/S2_TextView_CORREO_ELECTRONICO"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/S2_Texto_CorreoElectronico"
+            android:textStyle="normal|bold"/>
+        <TextView
+            android:id="@+id/S2_TextView_CorreoElectronico"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/S2_Espacio_Texto"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/S2_LinearLayout_Descripcion"
+        android:layout_marginTop="@dimen/S2_Espaciado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/S2_TextView_DESCRIPCION"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/S2_Texto_Descripcion"
+            android:textStyle="normal|bold"/>
+        <TextView
+            android:id="@+id/S2_TextView_Descripcion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/S2_Espacio_Texto"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/S2_Button_Editar"
+        android:layout_marginTop="@dimen/S2_Espaciado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/S2_TextoBotonEditar"/>
+
+</LinearLayout>

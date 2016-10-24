@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_dd1abfeb1b484079d5bda7da63ec8ee561f8f511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_84869fa9c07725bf07c940765fb9f2754ed47365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_0a5eae82359cee6cc60bac58556f9985b1c3497d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_98408e7dba9065bbdcb69d9c6eed0fd23a8e862b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_eb5afa58030b1f7a904f314a18256d2e328f9c4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_de8afeffffa917531bc1b7cb978b2283a6c1267f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_b7824db049054b14de14f0d504c0ae68bf5f8acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_ffeb3061096a54ba276cfc408e7f1fb74acc0e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_fdfad7bd6e938014e9e4f60c75aeabc91b04aa85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_eb42a84267277959f2cc9b67b2da5102d1d4c224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_aa223657c80457bf0ca03fd6ff40acd7dfa3f360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d8d85d2106eb8558c6616c134def112bff6d4314\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_18aede8c0c392eb484170847aa88bb860c3a70a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0404fb0aadd6e8c539239ede16400ad22549ba45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c34e897b6cf771e40f4d16a649e5f70dbffcc180">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_979faa7eef6c711dc38a4a657f7cebcb19029c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e619548d3166688dfa3a6fcf866eba4985117499">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ba0c95f46466730cda9489df035781fc72ad71a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_66743f7e363c913409466d4b90549c5477efdb84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_662c62a3ec7d98a3e0d4fc8e5f311ef0a2f36724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_6888b6198af0c6053788417d463ceb7311b8cfa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\adan_\AndroidStudioProjects\AppContactos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_15401f18db24879b9e1cd20e6958e18907c0c954\classes.dex" />
+    </item>
+
+</items>

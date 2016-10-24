@@ -1,0 +1,7 @@
+#Sun Oct 23 21:35:46 CDT 2016
+base.0=C\:\\Users\\adan_\\AndroidStudioProjects\\AppContactos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ba0c95f46466730cda9489df035781fc72ad71a0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\adan_\\AndroidStudioProjects\\AppContactos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_979faa7eef6c711dc38a4a657f7cebcb19029c48\\classes.dex
+base.1=C\:\\Users\\adan_\\AndroidStudioProjects\\AppContactos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_979faa7eef6c711dc38a4a657f7cebcb19029c48
+file.0=C\:\\Users\\adan_\\AndroidStudioProjects\\AppContactos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ba0c95f46466730cda9489df035781fc72ad71a0\\classes.dex

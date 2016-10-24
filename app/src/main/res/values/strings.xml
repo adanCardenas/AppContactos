@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppContactos</string>
+    <string name="TextoNombre">Nombre Completo</string>
+    <string name="TextoFechaNacimiento">Fecha de  Nacimiento</string>
+    <string name="TextoTelefono">Teléfono</string>
+    <string name="TextoElectronico">Correo electronico</string>
+    <string name="TextoDescripcion">Descripción del contacto</string>
+    <string name="TextoBotonSiguiente">Siguiente</string>
+    <string name="S2_TextoBotonEditar">Editar</string>
+    <string name="S2_TextView_Encabezado">Confirmar Datos</string>
+    <string name="S2_Texto_Nombre">Nombre:</string>
+    <string name="S2_Texto_FechaNacimiento">Fecha de Nacimiento:</string>
+    <string name="S2_Texto_Telefono">Teléfono:</string>
+    <string name="S2_Texto_CorreoElectronico">Correo Electronico:</string>
+    <string name="S2_Texto_Descripcion">Descripción:</string>
+    <!--String para las variables de los formularios -->
+    <string name="Formulario_Nombre">fNombre</string>
+    <string name="Formulario_FechaNacimiento">fFechaNacimiento</string>
+    <string name="Formulario_Telefono">fTelefono</string>
+    <string name="Formulario_CorreoElectronico">fCorreo</string>
+    <string name="Formulario_Descripcion">fDescripcion</string>
+</resources>
